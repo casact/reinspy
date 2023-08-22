@@ -1,1 +1,1 @@
-# resinspy
+# reinspy - a Python Reinsurance Package
