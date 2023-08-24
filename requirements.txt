@@ -1,2 +1,4 @@
-numpy==1.25.2
+chainladder==0.8.17
+numpy==1.24.4
 pandas==2.0.3
+rich==13.5.2
