@@ -27,7 +27,7 @@ setuptools.setup(
     description="reinspy - a Python Reinsurance Package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/genedan/FASLR",
+    url="https://github.com/genedan/reinspy",
     project_urls={
         "Documentation": "https://reinspy.com/docs"
     },
@@ -40,7 +40,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.10",
-        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+        "License :: OSI Approved :: Mozilla Public License Version 2.0",
         "Operating System :: POSIX :: Linux",
     ],
     python_requires='>=3.10.0',
