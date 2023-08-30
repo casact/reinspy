@@ -1,6 +1,7 @@
 # reinspy - a Python Reinsurance Package
 
 ---
+### Sources
 
 reinspy aims to implement methods and functions from the following papers:
 
@@ -10,18 +11,19 @@ reinspy aims to implement methods and functions from the following papers:
 - Parodi: Pricing in General Insurance
 
 ---
+### Scope
 
 reinspy aims to support the following types of reinsurance transactions:
 
-Types:
+**Types:**
 - Treaty
 - Facultative
 
-Allocation Methods:
+**Allocation Methods:**
 - Pro Rata
 - Excess of Loss
 
-Sub-types:
+**Sub-types:**
 - Quota Share
 - Surplus Share
 - Per Risk
