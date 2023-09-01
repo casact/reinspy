@@ -8,6 +8,10 @@ rich==13.5.2
 build==0.10.0
 twine==4.0.2
 
+# documentation
+mkdocs
+mkdocs-material
+
 # testing
 pytest == 7.4.0
 pytest-cov == 4.1.0
