@@ -1,6 +1,5 @@
 # reinspy - a Python Reinsurance Package
 [![PyPI version](https://badge.fury.io/py/reinspy.svg)](https://badge.fury.io/py/reinspy)
----
 ### Sources
 
 reinspy aims to implement methods and functions from the following papers:
