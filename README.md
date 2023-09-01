@@ -1,6 +1,6 @@
 # reinspy - a Python Reinsurance Package
 [![PyPI version](https://badge.fury.io/py/reinspy.svg)](https://badge.fury.io/py/reinspy)
-[![codecov](https://codecov.io/gh/genedan/reinspy/branch/main/graph/badge.svg?token=B2tp2sywL2)](https://codecov.io/gh/casact/FASLR) ![tests](https://github.com/genedan/reinspy/workflows/Unit%20Tests/badge.svg)
+[![codecov](https://codecov.io/gh/genedan/reinspy/branch/main/graph/badge.svg?token=B2tp2sywL2)](https://codecov.io/gh/genedan/reinspy) ![tests](https://github.com/genedan/reinspy/workflows/Unit%20Tests/badge.svg)
 ### Sources
 
 reinspy aims to implement methods and functions from the following papers:
