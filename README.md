@@ -1,5 +1,5 @@
 # reinspy - a Python Reinsurance Package
-
+[![PyPI version](https://badge.fury.io/py/reinspy.svg)](https://badge.fury.io/py/reinspy)
 ---
 ### Sources
 
