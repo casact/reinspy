@@ -1,2 +1,6 @@
 .coverage
+.egg-info
+.idea
+*.tar.gz
+*.whl
 site
