@@ -1,6 +1,6 @@
 .coverage
-.egg-info
 .idea
 *.tar.gz
 *.whl
+reinspy.egg-info
 site
