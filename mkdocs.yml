@@ -2,3 +2,6 @@ site_name: reinspy
 
 theme:
   name: material
+
+repo_url: https://github.com/casact/reinspy
+repo_name: casact/reinspy
