@@ -24,4 +24,4 @@ jobs:
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USER }}
         key: ${{ secrets.SSH_Key }}
-        script: cd /root/reinspy;
+        script: cd /root/reinspy; git pull; bash /root/reinspy/docs/build_docs.sh
