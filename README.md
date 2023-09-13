@@ -9,6 +9,7 @@ reinspy aims to implement methods and functions from the following papers:
 - Clark: Basics of Reinsurance Pricing 
 - Kearney: Reinsurance Principles and Practices
 - Parodi: Pricing in General Insurance
+- Strain: Reinsurance
 
 ---
 ### Scope
