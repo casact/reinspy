@@ -6,6 +6,7 @@
 reinspy aims to implement methods and functions from the following papers:
 
 - Albrecher, Beirlant, Teugels: Reinsurance: Actuarial and Statistical Aspects
+- Carter: Reinsurance
 - Clark: Basics of Reinsurance Pricing 
 - Kearney: Reinsurance Principles and Practices
 - Meyers, Heckman: The Calculation of Aggregate Loss Distributions from Claim Severity and Claim Count distributions
